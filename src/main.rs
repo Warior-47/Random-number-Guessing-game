@@ -10,7 +10,7 @@ fn main() {
     let mut average = 0;
     let mut average_win = 0;
     loop {
-        println!("Please input your guess number.");
+        // println!("Please input your guess number.");
         let mut guess = String::new();
         // io::stdin()
         //     .read_line(&mut guess)
